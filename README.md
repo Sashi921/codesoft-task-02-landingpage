@@ -1,1 +1,2 @@
-# codesoft-task-02-landingpage
+# landing-page
+# landing-page
